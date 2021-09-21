@@ -11,6 +11,7 @@ Embora você também encontra materiais em Inglês 🇺🇸 por aqui, incentivam
 - [Angular](#angular)
   - [Módulos](#módulos)
   - [Componentes](#componentes)
+  - [Serviços & Injeção de Dependências](#serviços-&-injeção-de-dependências)
 
 ## Legendas
 
@@ -48,3 +49,9 @@ Embora você também encontra materiais em Inglês 🇺🇸 por aqui, incentivam
 [📖 🇺🇸] Introdução à Componentes e Templates: Guia introdutório
 
 [Link para Material](https://angular.io/guide/architecture-components) - **Fonte:** `angular.io`
+
+### Serviços & Injeção de Dependências
+
+[📖 🇺🇸] **Introdução a Serviços e Injeção de Dependências**: Conceitos introdutórios aos serviços e injeção de dependências
+
+[Link para Material](https://angular.io/guide/architecture-services) | **Fonte:** `angular.io`
