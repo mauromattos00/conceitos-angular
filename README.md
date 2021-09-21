@@ -5,6 +5,13 @@ um com diversos materiais coletados pela própria comunidade sobre assuntos rela
 
 Embora você também encontra materiais em Inglês 🇺🇸 por aqui, incentivamos ativamente a descoberta e divulgação de materiais em Português para que todes tenham acesso à informação de forma inclusiva! 🇧🇷
 
+## Tabela de Conteúdos
+
+- [Legendas](legendas)
+- [Angular](#angular)
+  - [Módulos](#módulos)
+  - [Componentes](#componentes)
+
 ## Legendas
 
 🇺🇸 = Material em Inglês
@@ -14,12 +21,6 @@ Embora você também encontra materiais em Inglês 🇺🇸 por aqui, incentivam
 📖 = Artigo
 
 🎥 = Vídeo
-
-## Tabela de Conteúdos
-
-- [Angular](#angular)
-  - [Módulos](#módulos)
-  - [Componentes](#componentes)
 
 ## Angular
 
