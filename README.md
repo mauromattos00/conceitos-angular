@@ -12,6 +12,7 @@ Embora você também encontra materiais em Inglês 🇺🇸 por aqui, incentivam
   - [Módulos](#módulos)
   - [Componentes](#componentes)
   - [Serviços & Injeção de Dependências](#serviços-&-injeção-de-dependências)
+- [Programação Reativa](#programação-reativa-(rxjs))
 
 ## Legendas
 
@@ -55,3 +56,9 @@ Embora você também encontra materiais em Inglês 🇺🇸 por aqui, incentivam
 [📖 🇺🇸] **Introdução a Serviços e Injeção de Dependências**: Conceitos introdutórios aos serviços e injeção de dependências
 
 [Link para Material](https://angular.io/guide/architecture-services) | **Fonte:** `angular.io`
+
+## Programação Reativa (RxJs)
+
+[📖 🇧🇷] **Pensando Reativamente**: Teoria e Prática com Angular e RxJs
+
+[Link Para Material](https://medium.com/@richardleecba/pensando-reativamente-91361cfdccc5) | **Fonte:** `Medium | Richard Lee`
