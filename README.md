@@ -12,7 +12,7 @@ Embora você também encontra materiais em Inglês 🇺🇸 por aqui, incentivam
   - [Módulos](#módulos)
   - [Componentes](#componentes)
   - [Serviços & Injeção de Dependências](#serviços-&-injeção-de-dependências)
-- [Programação Reativa](#programação-reativa-(rxjs))
+- [Programação Reativa](#programação-reativa-rxjs)
 
 ## Legendas
 
