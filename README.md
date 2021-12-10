@@ -32,6 +32,10 @@ Embora você também encontre materiais em Inglês 🇺🇸 por aqui, incentivam
 
 [Site Oficial](https://rxjs.dev/guide/overview)
 
+[📖 🇧🇷] **Pensando Reativamente**: Teoria e Prática com Angular e RxJs
+
+[Link Para Material](https://medium.com/@richardleecba/pensando-reativamente-91361cfdccc5) | **Fonte:** `Medium | Richard Lee`
+
 ### Learn RxJs
 
 Site que ensina diversos conceitos relacionados ao RxJs com exemplos e explicações super úteis.
@@ -70,9 +74,3 @@ Site que ensina diversos conceitos relacionados ao RxJs com exemplos e explicaç
 [📖 🇺🇸] **Introdução a Serviços e Injeção de Dependências**: Conceitos introdutórios aos serviços e injeção de dependências
 
 [Link para Material](https://angular.io/guide/architecture-services) | **Fonte:** `angular.io`
-
-## Programação Reativa (RxJs)
-
-[📖 🇧🇷] **Pensando Reativamente**: Teoria e Prática com Angular e RxJs
-
-[Link Para Material](https://medium.com/@richardleecba/pensando-reativamente-91361cfdccc5) | **Fonte:** `Medium | Richard Lee`
