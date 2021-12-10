@@ -24,6 +24,20 @@ Embora você também encontre materiais em Inglês 🇺🇸 por aqui, incentivam
 
 🎥 = Vídeo
 
+## TypeScript
+
+[Site Oficial](https://www.typescriptlang.org/)
+
+## Programação Reativa (RxJs)
+
+[Site Oficial](https://rxjs.dev/guide/overview)
+
+### Learn RxJs
+
+Site que ensina diversos conceitos relacionados ao RxJs com exemplos e explicações super úteis.
+
+[Link para material](https://www.learnrxjs.io)
+
 ## Angular
 
 [Repositório Oficial](https://github.com/angular/angular)
