@@ -7,12 +7,13 @@ Embora você também encontre materiais em Inglês 🇺🇸 por aqui, incentivam
 
 ## Tabela de Conteúdos
 
-- [Legendas](legendas)
+- [Legendas](#legendas)
+- [TypeScript](#typescript)
+- [Programação Reativa (RxJs)](#progracamao-reativa-rxjs)
 - [Angular](#angular)
   - [Módulos](#módulos)
   - [Componentes](#componentes)
   - [Serviços & Injeção de Dependências](#serviços-&-injeção-de-dependências)
-- [Programação Reativa](#programação-reativa-rxjs)
 
 ## Legendas
 
