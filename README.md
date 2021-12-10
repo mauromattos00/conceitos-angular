@@ -3,7 +3,7 @@
 Seja bem vinde ao repositório **Conceitos Angular**,
 um com diversos materiais coletados pela própria comunidade sobre assuntos relacionados ao [Angular](https://angular.io).
 
-Embora você também encontra materiais em Inglês 🇺🇸 por aqui, incentivamos ativamente a descoberta e divulgação de materiais em Português para que todes tenham acesso à informação de forma inclusiva! 🇧🇷
+Embora você também encontre materiais em Inglês 🇺🇸 por aqui, incentivamos ativamente a descoberta e divulgação de materiais em Português para que todes tenham acesso à informação de forma inclusiva! 🇧🇷
 
 ## Tabela de Conteúdos
 
