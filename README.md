@@ -9,7 +9,7 @@ Embora você também encontre materiais em Inglês 🇺🇸 por aqui, incentivam
 
 - [Legendas](#legendas)
 - [TypeScript](#typescript)
-- [Programação Reativa (RxJs)](#progracamao-reativa-rxjs)
+- [Programação Reativa (RxJs)](#programação-reativa-rxjs)
 - [Angular](#angular)
   - [Módulos](#módulos)
   - [Componentes](#componentes)
